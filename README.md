@@ -15,7 +15,7 @@ All data can be found within the `/data/` directory.
 ### PGE bill
 filename: `pge_electric_interval_data__2018-10-04_to_2019-02-11.csv`
 
-
+The PG&E data is my own energy bills from Oct 4, 2018 to Feb 11, 2019. This data was downloaded from my PG&E account in the form it was provided by the company. 
 
 
 ### Weather data
