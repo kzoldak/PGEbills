@@ -13,11 +13,14 @@ In this process, I need to take into account the cost, as the rate per kWh chang
 ## Data
 All data can be found within the `/data/` directory.
 ### PGE bill
-- pge_electric_interval_data__2018-10-04_to_2019-02-11.csv
+filename: `pge_electric_interval_data__2018-10-04_to_2019-02-11.csv`
+
+
 
 
 ### Weather data
-- weatherdata.csv
+filename: `weatherdata.csv`
+
 The weather data was downloaded from [NOAA's Climate Website](https://www.ncdc.noaa.gov). Daily average temperatures matching the dates of my energy bills were downloaded to overlay the temperatures on the energy usage. 
 
 
